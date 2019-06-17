@@ -1,0 +1,26 @@
+{
+  "name": "veriz",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyjohnson/veriz.git"
+  },
+  "keywords": [
+    "something"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyjohnson/veriz/issues"
+  },
+  "homepage": "https://github.com/stanleyjohnson/veriz#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
