@@ -1,1 +1,2 @@
-# veriz
+npm run build
+npm start
