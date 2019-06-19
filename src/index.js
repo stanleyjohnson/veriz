@@ -1,8 +1,8 @@
-import Greetings from "./hello.js";
+import App from "./app.js";
 
 window.onload = function(){
     ReactDOM.render(
-        <Greetings name='Chris'/>,
+        <App/>,
         document.getElementById('root')
     );
 }

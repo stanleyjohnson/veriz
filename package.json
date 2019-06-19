@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm test",
     "start": "node server.js",
-    "babel": "babel src --out-dir build"
+    "build": "babel src --out-dir build"
   },
   "repository": {
     "type": "git",
