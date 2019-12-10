@@ -1,3 +1,3 @@
 export default function Greetings({name}){
-    return <h1>{'Greetings, ' + name + '!!'}</h1>
+    return <h1>{'Greetings, ' + name + '!!!'}</h1>
 }
